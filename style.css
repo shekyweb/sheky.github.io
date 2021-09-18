@@ -1,0 +1,16 @@
+h1{
+    font-size: 40px;
+    font-family: monospace;
+    color:#000000;
+}
+
+#start {
+    width: 90px;
+}
+
+html,body{background: rgb(255, 255, 255);}
+
+
+a{font-size: 30px;
+}
+
