@@ -115,6 +115,25 @@ p {
     background-color: rgb(0, 0, 0);
 }
 
+#timbutton{ 
+    font-size: 30px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
+
+#antonbutton {
+    font-size: 30px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
+
+
 
 
 
