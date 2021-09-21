@@ -1,14 +1,15 @@
 h1{
     font-size: 40px;
     font-family: monospace;
-    color:#000000;
+    color:#feffcc;
+    text-align: center;
 }
 
 #start {
     width: 90px;
 }
 
-html,body{background: rgb(9, 186, 218);}
+html,body{background: rgb(31, 31, 31);}
 
 
 a{font-size: 30px;
@@ -16,7 +17,7 @@ a{font-size: 30px;
 
 #balken {
     width: 90px;
-    color: #000000; 
+    color: #ffffff; 
 }
 #dcicon {
     width: 35px;
@@ -29,4 +30,91 @@ a{font-size: 30px;
 #githubicon {
     width: 35px;
 }
+
+#ueberschrift {
+    height: 50px;
+    width: auto;
+    background-color: rgb(0, 0, 0);
+}
+
+h2 {
+    font-family: monospace;
+    color:#feffcc;
+
+}
+
+h3 {
+    font-family: monospace;
+    color:#feffcc;
+}
+
+#mittelbalken {  
+    height: 50px;
+    width: auto;
+    background-color: rgb(0, 0, 0);
+  
+}
+
+p {
+    font-size: 20px;
+    font-family: monospace;
+    color:#feffcc;
+    text-align: center;
+}
+
+#links {
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+}
+
+#twitchbutton {
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
+
+#dcbutton {
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
+
+#githubbutton {
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
+
+#keksebutton{
+     font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+
+}
+
+#unterstreifen {
+    position: sticky;
+    position: -webkit-sticky;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+
+
+
 
