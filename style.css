@@ -132,8 +132,10 @@ p {
     background-color: rgb(31, 31, 31);
     border: rgb(31, 31, 31);
 }
+#links {
+    font-size:  40px;
+    font-family: monospace;
+    color:#feffcc;
+    background-color: rgb(0, 0, 0);
 
-
-
-
-
+}
