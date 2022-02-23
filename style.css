@@ -20,16 +20,31 @@ a{font-size: 30px;
     color: #ffffff; 
 }
 #dcicon {
-    width: 35px;
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
 }
 
 #twitchicon {
-    width: 35px;
+   font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
 }
 
 #githubicon {
-    width: 35px;
-}
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+} 
 
 #ueberschrift {
     height: 10%px;
