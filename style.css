@@ -1,58 +1,134 @@
-#logo {
-    width: 10%; 
-    display: block;
-    margin: 0px auto;
-}
-
-#balken1 {
-    border-bottom: 20px solid black;
-    margin-top: 0%;
-    margin-left: 25%;
-    margin-right: 25%;
-    box-shadow: 5px 5px 5px rgb(255, 0, 0);  
-}
-
-h1
-{
-    color: red;
-    text-shadow: 0px 5px 10px black, 0px 5px 10px black, 0px 5px 10px black;
+h1{
+    font-size: 40px;
+    font-family: monospace;
+    color:#feffcc;
     text-align: center;
-    margin-bottom: 1%;
-    font-size: 620%; 
+}
+
+#start {
+    width: 90px;
+}
+
+html,body{background: rgb(31, 31, 31);}
+
+
+a{font-size: 30px;
+}
+
+#balken {
+    width: 90px;
+    color: #ffffff; 
+}
+#dcicon {
+    width: 35px;
+}
+
+#twitchicon {
+    width: 35px;
+}
+
+#githubicon {
+    width: 35px;
+}
+
+#ueberschrift {
+    height: 10%px;
+    width: auto;
+    background-color: rgb(0, 0, 0);
 }
 
 h2 {
-    text-align: center;
-}
+    font-family: monospace;
+    color:#feffcc;
 
-#tabel {
-    width: 100%;
-}
-
-#pro {
-    margin-top: 3%;
-    width: 100%;
-    margin-left: 0%;
-    margin-right: 0%;
 }
 
 h3 {
+    font-family: monospace;
+    color:#feffcc;
+}
+
+#mittelbalken {  
+    height: 50px;
+    width: auto;
+    background-color: rgb(0, 0, 0);
+  
+}
+
+p {
+    font-size: 20px;
+    font-family: monospace;
+    color:#feffcc;
     text-align: center;
 }
 
-#balken2 {
-    border-bottom: 30px solid black;
-    margin-top: 3%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 4%;
+#links {
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
 }
 
-#balken3 {
-    border-bottom: 30px solid black;
-    margin-top: 3%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 4%;
+#twitchbutton {
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
 }
 
+#dcbutton {
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
+
+#githubbutton {
+    font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
+
+#keksebutton{
+     font-size: 20px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+
+}
+
+#unterstreifen {
+    position: sticky;
+    position: -webkit-sticky;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+}
+
+#timbutton{ 
+    font-size: 30px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
+
+#antonbutton {
+    font-size: 30px;
+    font-family: monospace;
+    color:#6f00ff;
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    border: rgb(31, 31, 31);
+}
